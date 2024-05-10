@@ -1,5 +1,11 @@
 # @kinobi-so/renderers-rust
 
+## 0.20.4
+
+### Patch Changes
+
+- [#27](https://github.com/kinobi-so/kinobi/pull/27) [`46bfc2d`](https://github.com/kinobi-so/kinobi/commit/46bfc2dd3609dc63e7d05e30dd1d196c9e8903cf) Thanks [@samuelvanderwaal](https://github.com/samuelvanderwaal)! - Make rust docs kinobi link clickable
+
 ## 0.20.3
 
 ### Patch Changes
